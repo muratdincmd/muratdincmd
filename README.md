@@ -2,3 +2,7 @@
 
 I am a Web Designer and have 10 years of experience on the Web. I specialize in Wordpress, developing themes and plugins. I currently work remotely as a Freelancer.
 
+Languages and Tools:
+
+Connect with me:
+
