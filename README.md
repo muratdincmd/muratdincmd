@@ -20,6 +20,7 @@ I am a Web Designer and have 10 years of experience on the Web. I specialize in 
 <img align="left" alt="javascript" width="30px" style="padding:0 10px 10px 0;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
 <img align="left" alt="bootstrap" width="30px" style="padding:0 10px 10px 0;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg"/>
 <img align="left" alt="mysql" width="30px" style="padding:0 10px 10px 0;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
+<img align="left" alt="bash" width="30px" style="padding:0 10px 10px 0;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg"/>
 <img align="left" alt="git" width="30px" style="padding:0 10px 10px 0;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
 <img align="left" alt="github" width="30px" style="padding:0 10px 10px 0;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="docker" width="30px" style="padding:0 10px 10px 0;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg"/>
