@@ -35,6 +35,9 @@ I am a Web Designer and have 10 years of experience on the Web. I specialize in 
 <br>
 
 <h3>Connect with me:</h3>
+
+Please find me on [LinkedIn](https://www.linkedin.com/in/muratdincmd/) for a more detailed description of my full work experience, education and certification.
+
 <h3>I'm learning:</h3>
 <img align="left" alt="less" width="30px" style="padding:0 10px 10px 0;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/less/less-plain-wordmark.svg"/>
 <img align="left" alt="sass" width="30px" style="padding:0 10px 10px 0;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"/>
