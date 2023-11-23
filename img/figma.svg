@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 54.81 53.44">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #48ba7f;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6 {
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        fill: #47b8e9;
+      }
+
+      .cls-3 {
+        fill: #343333;
+      }
+
+      .cls-4 {
+        fill: #8162aa;
+      }
+
+      .cls-5 {
+        fill: #f37264;
+      }
+
+      .cls-6 {
+        fill: #f05023;
+      }
+    </style>
+  </defs>
+  <g id="Icons">
+    <g id="figma">
+      <path class="cls-3" d="m9.71,0h35.4c5.37,0,9.71,4.34,9.71,9.71v34.03c0,5.37-4.34,9.71-9.71,9.71H9.71c-5.37,0-9.71-4.34-9.71-9.71V9.71C0,4.34,4.34,0,9.71,0Z"/>
+      <g id="Logo">
+        <path id="path0_fill" data-name="path0 fill" class="cls-1" d="m21,45.94c3.54,0,6.41-2.87,6.41-6.41v-6.41h-6.41c-3.54,0-6.41,2.87-6.41,6.41s2.87,6.41,6.41,6.41Z"/>
+        <path id="path1_fill" data-name="path1 fill" class="cls-4" d="m14.59,26.72c0-3.54,2.87-6.41,6.41-6.41h6.41v12.82h-6.41c-3.54,0-6.41-2.87-6.41-6.41Z"/>
+        <path id="path1_fill-2" data-name="path1 fill" class="cls-6" d="m14.59,13.9c0-3.54,2.87-6.41,6.41-6.41h6.41v12.82h-6.41c-3.54,0-6.41-2.87-6.41-6.41Z"/>
+        <path id="path2_fill" data-name="path2 fill" class="cls-5" d="m27.41,7.5h6.41c3.54,0,6.41,2.87,6.41,6.41s-2.87,6.41-6.41,6.41h-6.41V7.5Z"/>
+        <path id="path3_fill" data-name="path3 fill" class="cls-2" d="m40.22,26.72c0,3.54-2.87,6.41-6.41,6.41s-6.41-2.87-6.41-6.41,2.87-6.41,6.41-6.41,6.41,2.87,6.41,6.41Z"/>
+      </g>
+    </g>
+  </g>
+</svg>

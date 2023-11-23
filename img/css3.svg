@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 54.81 53.44">
+  <defs>
+    <style>
+      .cls-1 {
+        isolation: isolate;
+      }
+
+      .cls-1, .cls-2 {
+        opacity: .05;
+      }
+
+      .cls-1, .cls-3, .cls-4, .cls-5, .cls-6, .cls-7 {
+        stroke-width: 0px;
+      }
+
+      .cls-1, .cls-7 {
+        fill: #010101;
+      }
+
+      .cls-3 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-4 {
+        fill: #f7f7f7;
+      }
+
+      .cls-5 {
+        fill: #3d9cd6;
+      }
+
+      .cls-6 {
+        fill: #fff;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="31.54" y1="79.19" x2="31.54" y2="86.27" gradientTransform="translate(0 106.52) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset=".39" stop-color="#d2d3d4" stop-opacity="0"/>
+      <stop offset="1" stop-color="#d2d3d4"/>
+    </linearGradient>
+  </defs>
+  <g id="Icons">
+    <g id="css3">
+      <path class="cls-5" d="m9.71,0h35.4c5.37,0,9.71,4.34,9.71,9.71v34.03c0,5.37-4.34,9.71-9.71,9.71H9.71c-5.37,0-9.71-4.34-9.71-9.71V9.71C0,4.34,4.34,0,9.71,0Z"/>
+      <g id="Logo">
+        <polygon class="cls-4" points="38.64 43.14 27.14 46.23 15.65 43.14 13 14.41 41.29 14.41 38.64 43.14"/>
+        <polygon class="cls-6" points="27.14 16.74 27.14 43.76 27.17 43.77 36.47 41.26 38.61 16.74 27.14 16.74"/>
+        <g id="_3" data-name="3">
+          <polygon class="cls-5" points="27.13 23.92 18.91 27.34 19.19 30.73 27.13 27.33 35.59 23.72 35.94 20.25 27.13 23.92"/>
+          <polygon class="cls-5" points="18.91 27.34 19.19 30.73 27.13 27.33 27.13 23.92 18.91 27.34"/>
+          <polygon class="cls-3" points="35.94 20.25 27.13 23.92 27.13 27.33 35.59 23.72 35.94 20.25"/>
+          <polygon class="cls-5" points="18.92 27.34 19.19 30.73 31.39 30.78 31.12 35.3 27.11 36.43 23.25 35.45 23.02 32.64 19.43 32.64 19.89 38.07 27.15 40.21 34.36 38.1 35.29 27.34 18.92 27.34"/>
+          <g class="cls-2">
+            <polygon class="cls-7" points="27.13 27.34 18.91 27.34 19.19 30.73 27.13 30.76 27.13 27.34"/>
+            <polygon class="cls-7" points="27.13 36.41 27.1 36.43 23.23 35.45 23 32.64 19.41 32.64 19.89 38.07 27.13 40.21 27.13 36.41"/>
+          </g>
+          <polygon class="cls-5" points="18.17 20.25 35.94 20.25 35.59 23.72 18.59 23.72 18.17 20.25"/>
+          <polygon class="cls-1" points="27.13 20.25 18.17 20.25 18.59 23.72 27.13 23.72 27.13 20.25"/>
+        </g>
+        <g id="Text">
+          <polygon class="cls-6" points="20.62 10.18 20.62 8.48 23.12 8.48 23.12 6.61 18.76 6.61 18.76 11.9 23.12 11.9 23.12 10.18 20.62 10.18"/>
+          <path class="cls-6" d="m27.6,8.48h1.75v-1.87h-4.37v1.87c.58.58.89.86,1.73,1.71h-1.73v1.7h4.37v-1.71l-1.75-1.7Z"/>
+          <path class="cls-6" d="m33.8,8.48h1.75v-1.87h-4.37v1.87c.58.58.89.86,1.74,1.71h-1.74v1.7h4.37v-1.71l-1.75-1.7Z"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

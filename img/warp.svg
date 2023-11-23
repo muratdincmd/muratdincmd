@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 54.81 53.44">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4 {
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        fill: #8874b5;
+      }
+
+      .cls-3 {
+        fill: #1d364a;
+      }
+
+      .cls-4 {
+        fill: #006ea9;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="28.01" y1="1084.06" x2="45.41" y2="1069.89" gradientTransform="translate(0 -1054)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#499bd5"/>
+      <stop offset=".79" stop-color="#71c7aa"/>
+    </linearGradient>
+  </defs>
+  <g id="Icons">
+    <g id="wordpress">
+      <path class="cls-3" d="m9.71,0h35.4c5.37,0,9.71,4.34,9.71,9.71v34.03c0,5.37-4.34,9.71-9.71,9.71H9.71c-5.37,0-9.71-4.34-9.71-9.71V9.71C0,4.34,4.34,0,9.71,0Z"/>
+      <g id="Logo">
+        <path class="cls-4" d="m27.36,39.03h-12.28c-1.99,0-3.6-1.61-3.6-3.6v-13.97c0-1.99,1.61-3.6,3.6-3.6h17.57l-5.29,21.17Z"/>
+        <path class="cls-2" d="m27.45,14.41h12.28c1.99,0,3.6,1.61,3.6,3.6v13.97c0,1.99-1.61,3.6-3.6,3.6h-17.57l5.29-21.17Z"/>
+        <path class="cls-1" d="m27.45,14.41h12.28c1.99,0,3.6,1.61,3.6,3.6v13.97c0,1.99-1.61,3.6-3.6,3.6h-17.57l5.29-21.17Z"/>
+      </g>
+    </g>
+  </g>
+</svg>

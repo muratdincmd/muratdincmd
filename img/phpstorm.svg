@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 54.81 53.44">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6, .cls-7 {
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        fill: url(#linear-gradient-4);
+      }
+
+      .cls-3 {
+        fill: url(#linear-gradient-2);
+      }
+
+      .cls-4 {
+        fill: url(#linear-gradient-3);
+      }
+
+      .cls-5 {
+        fill: #c73083;
+      }
+
+      .cls-6 {
+        fill: #fff;
+      }
+
+      .cls-7 {
+        fill: #010101;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="7.49" y1="195.35" x2="24.41" y2="217.7" gradientTransform="translate(0 229.71) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset=".02" stop-color="#6962ac"/>
+      <stop offset=".38" stop-color="#8d5aa5"/>
+      <stop offset=".76" stop-color="#ee3b92"/>
+      <stop offset=".94" stop-color="#ee3b8c"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="8.73" y1="194.48" x2="25.63" y2="216.79" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-3" x1="36.45" y1="195.6" x2="26.91" y2="218.26" gradientTransform="translate(0 229.71) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset=".18" stop-color="#6962ac"/>
+      <stop offset=".24" stop-color="#7360aa"/>
+      <stop offset=".34" stop-color="#825ca7"/>
+      <stop offset=".44" stop-color="#8b5aa5"/>
+      <stop offset=".52" stop-color="#8d5aa5"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-4" x1="43.59" y1="189.3" x2="21.38" y2="206.47" gradientTransform="translate(0 229.71) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset=".02" stop-color="#6962ac"/>
+      <stop offset=".38" stop-color="#8d5aa5"/>
+    </linearGradient>
+  </defs>
+  <g id="Icons">
+    <g id="phpstorm">
+      <path class="cls-5" d="m9.71,0h35.4c5.37,0,9.71,4.34,9.71,9.71v34.03c0,5.37-4.34,9.71-9.71,9.71H9.71c-5.37,0-9.71-4.34-9.71-9.71V9.71C0,4.34,4.34,0,9.71,0Z"/>
+      <g id="Logo">
+        <g>
+          <polygon class="cls-1" points="29.97 16.14 28.07 10.38 14.02 7.39 7.17 15.16 28.59 26.1 29.97 16.14"/>
+          <polygon class="cls-3" points="23.29 31.23 22.89 19.25 7.17 15.16 11.03 38.25 23.29 38.13 23.29 31.23"/>
+          <polygon class="cls-4" points="19.9 30.99 20.65 21.49 32.05 9.81 42.24 11.65 47.48 24.72 42.01 30.13 33.08 28.69 27.56 34.51 19.9 30.99"/>
+          <polygon class="cls-2" points="32.05 9.81 15.69 24.32 18.86 42.97 32.45 47.69 47.48 38.71 32.05 9.81"/>
+        </g>
+        <g>
+          <rect class="cls-7" x="14.02" y="14.24" width="26.61" height="26.61"/>
+          <rect class="cls-6" x="16.55" y="35.85" width="9.98" height="1.66"/>
+          <path class="cls-6" d="m16.42,17.69h4.5c2.65,0,4.25,1.54,4.25,3.82v.06c0,2.59-1.97,3.88-4.5,3.88h-1.85v3.33h-2.4v-11.09Zm4.37,5.54c1.23,0,1.91-.74,1.91-1.66v-.06c0-1.11-.74-1.66-1.97-1.66h-1.85v3.39h1.91Z"/>
+          <path class="cls-6" d="m25.79,27.17l1.42-1.72c.99.8,2.03,1.35,3.33,1.35.99,0,1.6-.37,1.6-1.05v-.06c0-.62-.37-.92-2.22-1.42-2.22-.55-3.7-1.17-3.7-3.39v-.06c0-2.03,1.6-3.33,3.88-3.33,1.6,0,3.02.49,4.13,1.42l-1.29,1.85c-.99-.68-1.97-1.11-2.89-1.11s-1.42.43-1.42.99v.06c0,.74.49.99,2.4,1.48,2.22.62,3.51,1.42,3.51,3.33v.06c0,2.22-1.66,3.45-4.06,3.45-1.66-.06-3.33-.68-4.68-1.85"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
