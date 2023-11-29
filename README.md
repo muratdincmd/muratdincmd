@@ -4,13 +4,14 @@ I am a Web Designer and have 10 years of experience on the Web. I specialize in 
 
 # My Work Profile
 
-- **Clockify:** I work with Clockify, focusing on reporting on project phases.
-- **Notion:** I keep notes with Notion and collaborate on shared notes for effective teamwork.
-- **AI Integration:** I'm at peace with artificial intelligence and actively use it to improve myself and enhance work efficiency.
-- **IDE Usage:** I use VS Code professionally with more than 20 plugins. For PHP, I prefer PHPStorm due to its excellent support.
-- **Free Time Projects:** I'm currently developing a theme for Wordpress called Laura, which is being coded simultaneously on multiple Wordpress sites that I've deployed using Docker on localhost. I check the code quality with Jenkins and use GitHub for version control.
-- **I'm an Apple lover**: I do my development on a MacBook and check GitHub on an iPad, and it's fun to browse from the iPad at the end of the day before approving and merging my development.
-- **And of course I love drinking coffee!**
+- ⏰ **Clockify:** I work with Clockify, focusing on reporting on project phases.
+- 📝 **Notion:** I keep notes with Notion and collaborate on shared notes for effective teamwork.
+- 🤖 **AI Integration:** I'm at peace with artificial intelligence and actively use it to improve myself and enhance work efficiency.
+- 🤝 **IDE Usage:** I use VS Code professionally with more than 20 plugins. For PHP, I prefer PHPStorm due to its excellent support.
+- 👨🏻‍💻 **Free Time Projects:** I'm currently developing a theme for Wordpress called Laura, which is being coded simultaneously on multiple Wordpress sites that I've deployed using Docker on localhost. I check the code quality with Jenkins and use GitHub for version control.
+- 🍏 **I'm an Apple lover**: I do my development on a MacBook and check GitHub on an iPad, and it's fun to browse from the iPad at the end of the day before approving and merging my development.
+- 🔥 I really love the thrill of making what I want possible!
+- ☕️ **And of course I love drinking coffee!**
 
 <h3>Languages and Tools:</h3>
 <img align="left" alt="wordpress" width="156px" src="https://github.com/muratdincmd/muratdincmd/blob/main/img/group/html-css-php-wordpress.svg"/>
