@@ -1,6 +1,19 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=35&pause=1000&width=435&lines=Hello+%F0%9F%91%8F+I'm+Murat)](https://git.io/typing-svg)
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=35&pause=1000&width=435&lines=Hello+%F0%9F%91%8B+I'm+Murat)](https://git.io/typing-svg)
 
-I am a Web Designer and have 10 years of experience on the Web. I specialize in Wordpress, developing themes and plugins. I am good with vector files, I can create and edit them. I can also make a font library of icons specific to the project. I currently work remotely as a Freelancer.
+I am a Web Designer and have 10 years of experience on the Web. I specialize in Wordpress, developing themes and plugins. I am good with vector files, I can create and edit them. I can also make a font library of icons specific to the project.<br>I currently work remotely as a Freelancer.
+
+🤝 Open for Hiring
+  
+<a target="_blank" href="https://www.linkedin.com/in/muratdincmd/"><img align="left" alt="LinkedIn" width="156px" src="https://github.com/muratdincmd/muratdincmd/blob/main/img/group/linkedin.svg"/>
+<a target="_blank" href="https://www.instagram.com/muratdincmd/"><img align="left" alt="Instagram" width="156px" src="https://github.com/muratdincmd/muratdincmd/blob/main/img/instagram.svg"/>
+<a target="_blank" href="https://www.instagram.com/muratdincmd/"><img align="left" alt="X" width="156px" src="https://github.com/muratdincmd/muratdincmd/blob/main/img/x.svg"/>
+<a target="_blank" href="mailto:muratdincmd@icloud.com"><img align="left" alt="Gmail" width="156px" src="https://github.com/muratdincmd/muratdincmd/blob/main/img/gmail.svg"/> 
+
+</div>
+
+<br><br>
 
 # My Work Profile
 
@@ -46,3 +59,11 @@ Please find me on [LinkedIn](https://www.linkedin.com/in/muratdincmd/) for a mor
 <img align="left" alt="less" width="46px" src="https://github.com/muratdincmd/muratdincmd/blob/main/img/less.svg"/>
 <img align="left" alt="sass" width="46px" src="https://github.com/muratdincmd/muratdincmd/blob/main/img/sass.svg"/>
 <img align="left" alt="javascript" width="46px" src="https://github.com/muratdincmd/muratdincmd/blob/main/img/javascript.svg"/>
+
+<br><br>
+
+<h3>Support:</h3>
+
+<br>
+
+Thank you to [WPX Hosting](https://wpx.net) for sponsoring the hosting of my project [WiseKitten](https://wisekitten.com).
