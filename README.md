@@ -4,12 +4,7 @@
 
 I am a Web Designer and have 10 years of experience on the Web. I specialize in Wordpress, developing themes and plugins. I am good with vector files, I can create and edit them. I can also make a font library of icons specific to the project.<br>I currently work remotely as a Freelancer.
 
-🤝 Open for Hiring
-  
-<a target="_blank" href="https://www.linkedin.com/in/muratdincmd/"><img align="left" alt="LinkedIn" width="156px" src="https://github.com/muratdincmd/muratdincmd/blob/main/img/group/linkedin.svg"/>
-<a target="_blank" href="https://www.instagram.com/muratdincmd/"><img align="left" alt="Instagram" width="156px" src="https://github.com/muratdincmd/muratdincmd/blob/main/img/instagram.svg"/>
-<a target="_blank" href="https://www.instagram.com/muratdincmd/"><img align="left" alt="X" width="156px" src="https://github.com/muratdincmd/muratdincmd/blob/main/img/x.svg"/>
-<a target="_blank" href="mailto:muratdincmd@icloud.com"><img align="left" alt="Gmail" width="156px" src="https://github.com/muratdincmd/muratdincmd/blob/main/img/gmail.svg"/> 
+🤝 Open for ~~Hiring~~
 
 </div>
 
