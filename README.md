@@ -4,7 +4,7 @@
 
 I am a Web Designer and have 10 years of experience on the Web. I specialize in Wordpress, developing themes and plugins. I am good with vector files, I can create and edit them. I can also make a font library of icons specific to the project.<br>I currently work remotely as a Freelancer.
 
-🤝 Open for ~~Hiring~~ SELAM
+🤝 Open for Hiring
 
 </div>
 
