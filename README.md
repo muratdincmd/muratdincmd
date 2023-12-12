@@ -21,12 +21,7 @@
     <img alt="Gmail" width="30px" src="https://github.com/muratdincmd/muratdincmd/blob/main/img/blue/gmail.svg"/> 
 </a>
 
-</div>
-
-<br>
-
-<p align="center">🤝 Open for Hiring</p>
- 
+</div> 
 
 <br>
 
