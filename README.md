@@ -1,6 +1,6 @@
 <div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=35&pause=1000&width=435&lines=Hello+%F0%9F%91%8B+I'm+Murat)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&pause=500&size=35&color=2D82F7&random=false&width=316&lines=Hello+%F0%9F%91%8B+I'm+Murat)](https://git.io/typing-svg)
 
 I am a Web Designer and have 10 years of experience on the Web. I specialize in Wordpress, developing themes and plugins. I am good with vector files, I can create and edit them. I can also make a font library of icons specific to the project.<br>I currently work remotely as a Freelancer.
 
