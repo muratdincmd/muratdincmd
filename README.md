@@ -9,19 +9,24 @@
 <div align="center">
  
 <a target="_blank" href="https://www.linkedin.com/in/muratdincmd/">
-    <img alt="LinkedIn" width="30px" src="https://github.com/muratdincmd/muratdincmd/blob/main/img/blue/linkedin.svg"/>
+    <img alt="LinkedIn" width="30px" src="https://github.com/muratdincmd/muratdincmd/blob/main/img/blue/linkedin.png"/>
 </a>
 <a target="_blank" href="https://www.instagram.com/muratdincmd/">
-    <img alt="Instagram" width="30px" src="https://github.com/muratdincmd/muratdincmd/blob/main/img/blue/instagram.svg"/>
+    <img alt="Instagram" width="30px" src="https://github.com/muratdincmd/muratdincmd/blob/main/img/blue/instagram.png"/>
 </a>
 <a target="_blank" href="https://www.instagram.com/muratdincmd/"><img
-     alt="X" width="30px" src="https://github.com/muratdincmd/muratdincmd/blob/main/img/blue/x.svg"/>
+     alt="X" width="30px" src="https://github.com/muratdincmd/muratdincmd/blob/main/img/blue/x.png"/>
 </a>
 <a target="_blank" href="mailto:muratdincmd@icloud.com">
-    <img alt="Gmail" width="30px" src="https://github.com/muratdincmd/muratdincmd/blob/main/img/blue/gmail.svg"/> 
+    <img alt="Gmail" width="30px" src="https://github.com/muratdincmd/muratdincmd/blob/main/img/blue/gmail.png"/> 
 </a>
 
 </div>
+
+<br>
+
+<p align="center">🤝 Open for Hiring</p>
+ 
 
 <br>
 
