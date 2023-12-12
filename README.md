@@ -2,14 +2,31 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&pause=500&size=35&color=2D82F7&random=false&width=316&lines=Hello+%F0%9F%91%8B+I'm+Murat)](https://git.io/typing-svg)
 
-I am a Web Designer and have 10 years of experience on the Web. I specialize in Wordpress, developing themes and plugins. I am good with vector files, I can create and edit them. I can also make a font library of icons specific to the project.<br>I currently work remotely as a Freelancer.
+</div>
 
-🤝 Open for Hiring
+<p align="center">I am a Web Designer and have 10 years of experience on the Web. I specialize in Wordpress, developing themes and plugins. I am good with vector files, I can create and edit them. I can also make a font library of icons specific to the project.<br><samp>I currently work remotely as a Freelancer.</samp></p>
+
+<div align="center">
+ 
+<a target="_blank" href="https://www.linkedin.com/in/muratdincmd/">
+    <img alt="LinkedIn" width="30px" src="https://github.com/muratdincmd/muratdincmd/blob/main/img/blue/linkedin.svg"/>
+</a>
+<a target="_blank" href="https://www.instagram.com/muratdincmd/">
+    <img alt="Instagram" width="30px" src="https://github.com/muratdincmd/muratdincmd/blob/main/img/blue/instagram.svg"/>
+</a>
+<a target="_blank" href="https://www.instagram.com/muratdincmd/"><img
+     alt="X" width="30px" src="https://github.com/muratdincmd/muratdincmd/blob/main/img/blue/x.svg"/>
+</a>
+<a target="_blank" href="mailto:muratdincmd@icloud.com">
+    <img alt="Gmail" width="30px" src="https://github.com/muratdincmd/muratdincmd/blob/main/img/blue/gmail.svg"/> 
+</a>
 
 </div>
- 
-<br><br>
 
+<br>
+
+<p align="center">🤝 Open for Hiring</p>
+ 
 # My Work Profile
 
 - ⏰ **Clockify:** I work with Clockify, focusing on reporting on project phases.
@@ -44,12 +61,6 @@ I am a Web Designer and have 10 years of experience on the Web. I specialize in 
 
 <br><br>
 
-<h3>Connect with me:</h3>
-
-<br>
-
-Please find me on [LinkedIn](https://www.linkedin.com/in/muratdincmd/) for a more detailed description of my full work experience, education and certification.
-
 <h3>I'm learning:</h3>
 <img align="left" alt="less" width="46px" src="https://github.com/muratdincmd/muratdincmd/blob/main/img/less.svg"/>
 <img align="left" alt="sass" width="46px" src="https://github.com/muratdincmd/muratdincmd/blob/main/img/sass.svg"/>
@@ -57,8 +68,8 @@ Please find me on [LinkedIn](https://www.linkedin.com/in/muratdincmd/) for a mor
 
 <br><br>
 
-<h3>Support:</h3>
+Please find me on [LinkedIn](https://www.linkedin.com/in/muratdincmd/) for a more detailed description of my full work experience, education and certification.
 
-<br>
+<h3>Support:</h3>
 
 Thank you to [WPX Hosting](https://wpx.net) for sponsoring the hosting of my project [WiseKitten](https://wisekitten.com).
