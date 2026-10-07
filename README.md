@@ -1,98 +1,66 @@
-﻿<div align="center">
+# Murat Dinç
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&pause=500&size=35&color=2D82F7&random=false&width=360&lines=Hello+%F0%9F%91%8B+I'm+Murat)](https://git.io/typing-svg)
+**Founder of [Visxy](https://visxy.com) · Independent product builder**
 
-</div>
+I build my own software products with AI at the core of my workflow. I also create photo and video content and manage social media accounts, bringing product development and visual storytelling into the same practice.
 
-<div align="center">
-  <p>Freelance WordPress theme and plugin developer with 10+ years crafting user-focused web experiences.</p>
-  <p><strong>Open to remote collaborations, long-term partnerships, and mentoring opportunities.</strong></p>
-</div>
+My main focus is **Visxy**: a creative workspace for AI image and video generation, editing, and discovery. I founded it and am building it solo, taking responsibility for the product from its initial idea through development, content, operations, and growth.
 
-<div align="center">
-  <a target="_blank" href="https://www.linkedin.com/in/muratdincmd/">
-    <img alt="LinkedIn" width="30" src="https://raw.githubusercontent.com/muratdincmd/muratdincmd/main/img/blue/linkedin.svg" />
-  </a>
-  <a target="_blank" href="https://www.instagram.com/muratdincmd/">
-    <img alt="Instagram" width="30" src="https://raw.githubusercontent.com/muratdincmd/muratdincmd/main/img/blue/instagram.svg" />
-  </a>
-  <a target="_blank" href="https://x.com/MuratDincMD">
-    <img alt="X" width="30" src="https://raw.githubusercontent.com/muratdincmd/muratdincmd/main/img/blue/x.svg" />
-  </a>
-  <a target="_blank" href="mailto:muratdincmd@icloud.com">
-    <img alt="Email" width="30" src="https://raw.githubusercontent.com/muratdincmd/muratdincmd/main/img/blue/gmail.svg" />
-  </a>
-</div>
+## Building Visxy
 
----
+Visxy brings together:
 
-## About Me
+- **Image and video generation** — create from your own prompts and references.
+- **Editing tools** — develop and refine existing visuals.
+- **Curated prompt libraries** — discover starting points for images, video, effects, and product visuals.
 
-I'm Murat Din&ccedil;, a WordPress-focused designer-developer with 10+ years shipping themes, plugins, and WooCommerce builds. I work remotely with agencies and founders to keep brand, performance, and accessibility aligned.
+My ambition is to make Visxy a place where visual trends begin and creators shape what comes next. I want the path from an idea to a visual result to feel more connected, with room to explore, experiment, and develop a style of your own.
 
-## What I Am Focused On
+**Bring X. Create Y.** X is what you bring: an idea, a prompt, an image, or a reference. Y is what you create. Visxy is the workspace between them.
 
-- Lead distributed WordPress initiatives with transparent Clockify reporting.
-- Build reusable theme and plugin systems with Jenkins and GitHub automation.
-- Design conversion-friendly WooCommerce experiences for lifestyle and e-commerce brands.
-- I use AI copilots to research, iterate, and keep delivery fast.
+[Explore Visxy →](https://visxy.com)
 
 ## How I Work
 
-- Remote-first partner who documents decisions and shared specs in Notion for async clarity.
-- Spin up Docker WordPress stacks, run Jenkins checks, and review branches before release.
-- Develop on MacBook with VS Code and PHPStorm, then approve on iPad to keep feedback tight.
+AI is central to how I research, develop software, and produce visual content. I use it extensively across my work while owning the decisions that shape the product: what to build, how it should work, and how it reaches people.
 
-## What I Deliver
+Building Visxy means working across product direction, interface design, application development, AI integrations, content, and the infrastructure behind the experience. I also create and manage social content, connecting the product with the creative workflows it is built to support.
 
-- End-to-end WordPress theme and plugin development plus long-term maintenance playbooks.
-- WooCommerce stores, custom themes, and conversion optimization &mdash; currently shipping for the Lorviere brand.
-- Icon and vector systems that align product, marketing, and brand touchpoints.
-- Performance tuning, accessibility sweeps, and WordPress mentoring sessions.
+## Current Stack
 
-## Toolbox
+Technologies, services, and integrations across my product development and creative workflows:
 
-**Web and Development**  
-<p align="left">
-  <img alt="WordPress" width="46" src="https://raw.githubusercontent.com/muratdincmd/muratdincmd/main/img/wordpress.svg" />
-  <img alt="PHP" width="46" src="https://raw.githubusercontent.com/muratdincmd/muratdincmd/main/img/php.svg" />
-  <img alt="HTML5" width="46" src="https://raw.githubusercontent.com/muratdincmd/muratdincmd/main/img/html5.svg" />
-  <img alt="CSS3" width="46" src="https://raw.githubusercontent.com/muratdincmd/muratdincmd/main/img/css3.svg" />
-  <img alt="Sass" width="46" src="https://raw.githubusercontent.com/muratdincmd/muratdincmd/main/img/sass.svg" />
-  <img alt="Less" width="46" src="https://raw.githubusercontent.com/muratdincmd/muratdincmd/main/img/less.svg" />
-  <img alt="JavaScript" width="46" src="https://raw.githubusercontent.com/muratdincmd/muratdincmd/main/img/javascript.svg" />
-  <img alt="MySQL" width="46" src="https://raw.githubusercontent.com/muratdincmd/muratdincmd/main/img/mysql.svg" />
-  <img alt="Bootstrap" width="46" src="https://raw.githubusercontent.com/muratdincmd/muratdincmd/main/img/bootstrap.svg" />
-</p>
-<p>WordPress | PHP | HTML | CSS | Sass | Less | JavaScript | MySQL | Bootstrap</p>
+| Area | Technologies and services |
+| --- | --- |
+| Web development | TypeScript, JavaScript, Next.js, React, Node.js, HTML, CSS |
+| Interface and interaction | Tailwind CSS, shadcn/ui, Radix UI, Base UI, Framer Motion, Lucide |
+| Client state and data | TanStack Query, Zustand, React Hook Form, Zod |
+| Mobile development | Expo, React Native |
+| Backend and databases | Supabase, PostgreSQL, SQL migrations, database functions, Row Level Security |
+| Backend services | Supabase Auth, Storage, Realtime, Edge Functions, scheduled jobs |
+| AI integrations | fal.ai, kie.ai, Replicate, Higgsfield, OpenRouter |
+| AI workflows | Image and video generation, reference-based editing, prompt tooling, model catalogs, provider orchestration |
+| Authentication and identity | Google OAuth, Sign in with Apple, Google One Tap, two-factor authentication |
+| Media storage and delivery | Cloudflare R2, Cloudflare Workers, Bunny Stream, Supabase Storage, S3-compatible APIs |
+| Media processing | Sharp, browser image compression, image cropping, Canvas API, resumable uploads, video transcoding |
+| Hosting and infrastructure | Vercel, serverless functions, edge middleware, Vercel Cron Jobs |
+| Payments and monetization | Subscription systems, credit wallets, usage-based pricing, referral systems |
+| Email and communication | Brevo, Resend, Nodemailer, transactional email, newsletters, campaign workflows |
+| Social integrations | Meta APIs, Instagram, Facebook, OAuth, webhooks, comment-to-DM automation |
+| Analytics and monitoring | Google Analytics 4, Vercel Web Analytics, Vercel Speed Insights, Sentry |
+| Content and discoverability | Markdown, CMS workflows, SEO metadata, structured data, search and filtering |
+| Testing and delivery | Git, GitHub, npm, ESLint, Vitest, Playwright |
 
-**Workflow and Delivery**  
-<p align="left">
-  <img alt="Bash" width="46" src="https://raw.githubusercontent.com/muratdincmd/muratdincmd/main/img/bash-terminal.svg" />
-  <img alt="Git" width="46" src="https://raw.githubusercontent.com/muratdincmd/muratdincmd/main/img/git.svg" />
-  <img alt="GitHub" width="46" src="https://raw.githubusercontent.com/muratdincmd/muratdincmd/main/img/github.svg" />
-  <img alt="Docker" width="46" src="https://raw.githubusercontent.com/muratdincmd/muratdincmd/main/img/docker.svg" />
-  <img alt="Jenkins" width="46" src="https://raw.githubusercontent.com/muratdincmd/muratdincmd/main/img/Jenkins.svg" />
-  <img alt="Visual Studio Code" width="46" src="https://raw.githubusercontent.com/muratdincmd/muratdincmd/main/img/visual-studio-code.svg" />
-  <img alt="PHPStorm" width="46" src="https://raw.githubusercontent.com/muratdincmd/muratdincmd/main/img/phpstorm.svg" />
-  <img alt="Warp" width="46" src="https://raw.githubusercontent.com/muratdincmd/muratdincmd/main/img/warp.svg" />
-</p>
-<p>Docker | Jenkins | Git | GitHub | Bash | VS Code | PHPStorm | Clockify | Notion</p>
+### What I Build With Them
 
-**Design**  
-<p align="left">
-  <img alt="Adobe Photoshop" width="46" src="https://raw.githubusercontent.com/muratdincmd/muratdincmd/main/img/photoshop.svg" />
-  <img alt="Adobe Illustrator" width="46" src="https://raw.githubusercontent.com/muratdincmd/muratdincmd/main/img/illustrator.svg" />
-  <img alt="Figma" width="46" src="https://raw.githubusercontent.com/muratdincmd/muratdincmd/main/img/figma.svg" />
-  <img alt="Canva" width="46" src="https://raw.githubusercontent.com/muratdincmd/muratdincmd/main/img/canva.svg" />
-</p>
-<p>Adobe Photoshop | Adobe Illustrator | Figma | Canva</p>
-
-## Support
-
-Thank you to [WPX Hosting](https://wpx.net) for sponsoring the hosting.
+- **Complete product experiences:** application interfaces, accounts, dashboards, content management, and mobile clients.
+- **AI creation workflows:** model and provider integrations, prompt and reference inputs, asynchronous generation jobs, webhooks, and result libraries.
+- **Media pipelines:** direct uploads, object storage, image processing, video delivery, and reusable creative assets.
+- **Product operations:** subscriptions and credits, partner referrals, email campaigns, social automation, and analytics.
+- **Maintainable systems:** typed application code, database permissions, automated checks, end-to-end testing, and error monitoring.
 
 ## Let's Connect
 
-- [LinkedIn](https://www.linkedin.com/in/muratdincmd/) for a detailed view of my experience, education, and certifications.
-- Email me at [muratdincmd@icloud.com](mailto:muratdincmd@icloud.com) to start a conversation.
+I'm interested in conversations with creators, potential partners, and investors who share an interest in AI-powered visual creation and the future of creative tools.
+
+[Visxy](https://visxy.com) · [LinkedIn](https://www.linkedin.com/in/muratdincmd/) · [Instagram](https://www.instagram.com/muratdincmd/) · [X](https://x.com/MuratDincMD) · [Email](mailto:muratdincmd@icloud.com)
